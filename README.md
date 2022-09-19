@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cluelescoder
-- 👀 I’m interested in robotics,AI,coding
+- 👀 I’m interested in AI,coding,web dev
 - 🌱 I’m currently learning electronics engineering
-- 💞️ I’m looking to collaborate on projects related to robotics,AI...
+- 💞️ I’m looking to collaborate on projects related to web dev,AI...
 - 📫 How to reach me swaroopkammath2001@gmail.com
 
 <!---
